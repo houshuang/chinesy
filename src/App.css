@@ -1,4 +1,5 @@
-li {}
+li {
+}
 
 .popup {
   padding: 20px;
@@ -18,7 +19,7 @@ li {}
 
 p {
   margin-top: 0;
-  margin-bottom: 0
+  margin-bottom: 0;
 }
 
 .App {
@@ -29,10 +30,21 @@ p {
 .characterMap {
   display: flex;
   flex-wrap: wrap;
-  margin: 100px;
+  margin: 30px;
   margin-right: 200px;
 }
 
+.buttonLike {
+  font-weight: bold;
+  cursor: pointer;
+}
+.maxmin {
+  text-align: right;
+}
+.form-control {
+  width: 30px;
+  margin-bottom: 10px;
+}
 .character {
   font-size: 50px;
   margin: 30px;
