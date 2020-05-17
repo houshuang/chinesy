@@ -1,5 +1,52 @@
+li {}
+
+.popup {
+  padding: 20px;
+  font-size: 30px;
+  background-color: #caffc2;
+  opacity: 100%;
+  max-width: 300px;
+}
+
+.popupShift {
+  padding: 20px;
+  font-size: 20px;
+  background-color: #ffc6c2;
+  opacity: 100%;
+  max-width: 300px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0
+}
+
 .App {
   text-align: center;
+}
+
+.characterMap {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 100px;
+  margin-right: 200px;
+}
+
+.character {
+  font-size: 50px;
+  margin: 30px;
+}
+
+.sel-1 {
+  background-color: green;
+}
+
+.sel-2 {
+  background-color: yellow;
+}
+
+.sel-3 {
+  background-color: red;
 }
 
 .App-logo {
@@ -32,6 +79,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
