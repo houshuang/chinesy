@@ -39,10 +39,13 @@ p {
   cursor: pointer;
 }
 .maxmin {
-  text-align: right;
+  text-align: right !important;
+  font-size: 10px;
 }
 .form-control {
-  width: 30px;
+  width: 60px;
+  display: inline !important;
+  font-size: 10px;
   margin-bottom: 10px;
 }
 .character {
