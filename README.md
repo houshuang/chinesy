@@ -4,6 +4,8 @@ This is intended as a quick way of testing not only how many characters you know
 
 [More info about my Chinese learning](https://notes.reganmian.net/a--chinese)
 
+[Video](https://www.loom.com/share/bc733212f3b8432a9c8f82b7b903e4ac)
+
 ![image](https://user-images.githubusercontent.com/61575/82156757-63bebd00-987d-11ea-8570-138775c6760d.png)
 
 ## Data sources
